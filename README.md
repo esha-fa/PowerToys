@@ -5,7 +5,7 @@
   </picture>
 </p>
 <h1 align="center">
-  <span>Microsoft PowerToys</span>
+  <span>Microsoft PowerToys - by esha-fa</span>
 </h1>
 <p align="center">
   <span align="center">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span>
